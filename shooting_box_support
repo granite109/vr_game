@@ -1,0 +1,20 @@
+Support
+
+You can send email to find more details
+
+Email: ganquan109@gmail.com
+ 
+Tech-support
+ 
+Game is powered by unity
+Unity provides the following user interface (UI) toolkits for creating UI(User Interface) Allows a user to interact with your application. 
+      
+UIElements: User Interface Elements (UIElements) is a retained-mode UI toolkit for developing user interfaces in the Unity Editor.
+UIElements is based on recognized web technologies and supports stylesheets, dynamic and contextual event handling, and data persistence.
+     
+Unity UI: Unity User Interface (Unity UI) is a simple UI toolkit for developing user interfaces for games and applications. 
+Unity UI is a GameObject-based UI system that uses components and the Game View to arrange, position, and style the user interface. 
+You cannot use Unity UI for user interfaces within the Unity Editor.
+      
+IMGUI: Immediate Mode Graphical User Interface is a code-driven UI toolkit that is mainly intended as a tool for developers.
+IMGUI uses the OnGUI function, and scriptsA piece of code that allows you to create your own Components, trigger game events, modify Component properties over time and respond to user input in any way you like. More info
